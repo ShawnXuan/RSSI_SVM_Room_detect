@@ -4,7 +4,7 @@
 This is an android app source code which is developed on Android Studio. Here we suppose you have ability to debug or build apk by yourself. 
 This app is used to collect data also for the test as well.
 The main screen-shot likes the figure below. On default, the app will update sensor data around every 100ms.
-<img src=https://github.com/ShawnXuan/RSSI_SVM_Room_detect/blob/master/img/GetAcc.png/>
+<img src=https://github.com/ShawnXuan/RSSI_SVM_Room_detect/blob/master/img/GetAcc.png/ width=150>
 
 ##2. Data Collection file
 Click “START RECORDING” button will create an txt file and record these sensor data, then save it when finish. The txt file will be named like “Sensor_1458571074272.txt”, “1458571074272” is the time stamp when create this file. This file will be stored in the “test” folder of SDCard, please make sure you can find it (I use other app such as “file manager”). 
